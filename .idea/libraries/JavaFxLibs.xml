@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JavaFxLibs">
+    <CLASSES>
+      <root url="file://D:/SID ALI/JavaFxLibs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/SID ALI/JavaFxLibs" />
+    </SOURCES>
+    <jarDirectory url="file://D:/SID ALI/JavaFxLibs" recursive="false" />
+    <jarDirectory url="file://D:/SID ALI/JavaFxLibs" recursive="false" type="SOURCES" />
+  </library>
+</component>
